@@ -29,7 +29,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) Li
 - **Email:** Chrisspanelli@icloud.com
 - **GitHub:** [cpanelli](h
 
-https://github.com/Cpanelli/README-Generator/assets/133393733/20ab5cc0-3bfa-4ebc-a585-ece1dd296c2c
+
 
 
 
