@@ -1,8 +1,7 @@
-
-# README-Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ReadMe Generatior  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project
+This is a node application that will use inquirer to generate a customized readme.md file based on user input.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -11,13 +10,20 @@ AS A developer I WANT a README generator SO THAT I can quickly create a professi
 4. [Contact](#contact)
 
 ## Installation
-Go to my repo. Open up in VS code. Open 
+You will need to have node v16.18.0 installed in order to use this application. Please see https://nodejs.org/en/download for more information on how to install.
 
 ## Usage
-Go to my repo. Open up in VS code. Open terminal in VS code. Type in  node index .js
+This is a node application that will use inquirer to generate a customized readme.md file based on user input.
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
+
+
+
+## Contact
+- **Name:** Christopher Panelli
+- **Email:** Chrisspanelli@icloud.com
+- **GitHub:** [cpanelli](h
 
 
 
