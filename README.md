@@ -15,6 +15,10 @@ You will need to have node v16.18.0 installed in order to use this application. 
 ## Usage
 This is a node application that will use inquirer to generate a customized readme.md file based on user input.
 
+
+https://github.com/Cpanelli/README-Generator/assets/133393733/fedda958-ef60-4d45-85f5-79e40f7517d4
+
+
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
 
@@ -24,6 +28,10 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) Li
 - **Name:** Christopher Panelli
 - **Email:** Chrisspanelli@icloud.com
 - **GitHub:** [cpanelli](h
+
+https://github.com/Cpanelli/README-Generator/assets/133393733/20ab5cc0-3bfa-4ebc-a585-ece1dd296c2c
+
+
 
 
 
